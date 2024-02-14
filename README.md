@@ -1,2 +1,1 @@
-"# ITCS424-W5-Homework-1-Two-pages-from-project-proposal" 
-"# ITCS424-W5-Homework-1-Two-pages-from-project-proposal" 
+I accidentally deleted it, causing me to have to upload it again. You can see the commit.
